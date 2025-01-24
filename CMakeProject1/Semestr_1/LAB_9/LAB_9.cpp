@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <cstdint> // Äëÿ uint8_t
 
@@ -21,4 +20,3 @@ int main() {
 
 	return 0;
 }
-*/

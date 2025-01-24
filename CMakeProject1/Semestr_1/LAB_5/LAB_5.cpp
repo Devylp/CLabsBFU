@@ -7,7 +7,7 @@
 2. Дано натуральное число N (N<10^9). Найти сумму четных цифр числа N.
 */
 
-/*
+
 #include <iostream>
 #include <vector>
 #include <limits>
@@ -93,4 +93,3 @@ int SummEvenDigits(int number) {
     }
     return summ_even_digits;
 }
-*/

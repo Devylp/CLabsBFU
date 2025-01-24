@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -47,4 +46,3 @@ int SummNums(int number) {
 	}
 	return summ;
 }
-*/
